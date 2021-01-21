@@ -62,14 +62,14 @@ footer {
 }
 
 .youtube {
-    height: 400px;
+    height: 300px;
     width: 400px;
     justify-content: center;
     display: flex;
     /*background-color: tomato;*/
     padding-left: 50px;
     padding-right: 50px;
-    padding-bottom: 150px;
+    padding-bottom: 100px;
     margin: auto;
 }
 
@@ -81,7 +81,7 @@ footer {
     height: 1200px;
     background-color: black;
     justify-content: center;
-    padding-top: 50px;
+    padding-top: 38px;
     padding-bottom: 50px;
 }
 
